@@ -47,3 +47,4 @@ Backup[ ]of[ ]*.key/
 Backup[ ]of[ ]*.numbers/
 
 .vscode
+**/a.out
